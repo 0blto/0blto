@@ -1,5 +1,5 @@
 <h1>thebigone</h1>
-ITMO University
+ITMO University<br>
 Software engineering
 <!--
 **0blto/0blto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
