@@ -1,6 +1,6 @@
 <h1>thebigone</h1>
 ITMO University<br>
-- ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `
+
 <span style="color: green">
 888&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;888<br>
 888&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;888<br>
@@ -11,4 +11,4 @@ ITMO University<br>
 888&nbsp; 888888&nbsp; 888Y88b.&nbsp; &nbsp;888&nbsp;"88bY8b.&nbsp; &nbsp; 888<br>
 888&nbsp; 888"Y888888&nbsp;"Y8888P888&nbsp; 888&nbsp;"Y8888&nbsp;888<br>
 </span>
-'
+
