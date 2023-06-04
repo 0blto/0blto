@@ -2,7 +2,7 @@
 ITMO University<br>
 
 <p style="color: #107C10;">
-888                     888                     <br>
+888&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;888<br>
 888                     888                     <br>
 888                     888                     <br>
 88888b.  8888b.  .d8888b888  888 .d88b. 888d888 <br>
