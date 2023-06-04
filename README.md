@@ -1,7 +1,7 @@
 <h1>thebigone</h1>
 ITMO University<br>
 
-<span style="color: #107C10;">
+<span style="color: green">
 888&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;888<br>
 888&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;888<br>
 888&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;888<br>
