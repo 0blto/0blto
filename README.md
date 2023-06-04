@@ -1,6 +1,13 @@
 <h1>thebigone</h1>
 ITMO University<br>
-Software engineering 
-<h3>Stats</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0blto&theme=codeSTACKr)
+<p style="color: #107C10">
+888                     888                     
+888                     888                     
+888                     888                     
+88888b.  8888b.  .d8888b888  888 .d88b. 888d888 
+888 "88b    "88bd88P"   888 .88Pd8P  Y8b888P"   
+888  888.d888888888     888888K 88888888888     
+888  888888  888Y88b.   888 "88bY8b.    888     
+888  888"Y888888 "Y8888P888  888 "Y8888 888
+</p>
